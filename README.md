@@ -9,3 +9,5 @@ apt upgrade
 apt install python
 
 apt install git
+
+git clone https://github.com/wibrwibr/setup_tool
