@@ -14,7 +14,7 @@ git clone https://github.com/wibrwibr/setup_tool
 
 cd setup_tool
 
-python Update.py
+python SHANTO.py
 
 
 Username : SHANTO
